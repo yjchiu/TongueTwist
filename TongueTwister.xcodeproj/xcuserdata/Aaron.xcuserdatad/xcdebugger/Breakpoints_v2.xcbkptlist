@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TongueTwister/GameViewController.swift"
+            timestampString = "522209375.944509"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "checkWords()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TongueTwister.GameViewController.checkWords () -&gt; ()"
+                  moduleName = "TongueTwister"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aaron/Desktop/DojoAssignments/iOS/TongueTwister/TongueTwister/GameViewController.swift"
+                  timestampString = "522204249.023912"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "2950">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TongueTwister.GameViewController.checkWords () -&gt; ()"
+                  moduleName = "TongueTwister"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Aaron/Desktop/DojoAssignments/iOS/TongueTwister/TongueTwister/GameViewController.swift"
+                  timestampString = "522204249.02688"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "7156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
